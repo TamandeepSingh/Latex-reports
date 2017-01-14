@@ -1,0 +1,48 @@
+\BOOKMARK [0][]{chapter.1}{INTRODUCTION OF ORGANIZATION}{}% 1
+\BOOKMARK [1][]{section.1.1}{Testing and Consutancy Cell}{chapter.1}% 2
+\BOOKMARK [0][]{chapter.2}{Introduction To Project}{}% 3
+\BOOKMARK [1][]{section.2.1}{Overview}{chapter.2}% 4
+\BOOKMARK [1][]{section.2.2}{The Existing System}{chapter.2}% 5
+\BOOKMARK [1][]{section.2.3}{User Requirement Analysis}{chapter.2}% 6
+\BOOKMARK [1][]{section.2.4}{Feasibility Analysis}{chapter.2}% 7
+\BOOKMARK [1][]{section.2.5}{Objective of Project}{chapter.2}% 8
+\BOOKMARK [0][]{chapter.3}{PROJECT DESIGN}{}% 9
+\BOOKMARK [1][]{section.3.1}{Software Requirement Analysis}{chapter.3}% 10
+\BOOKMARK [2][]{subsection.3.1.1}{Functional Requirements}{section.3.1}% 11
+\BOOKMARK [2][]{subsection.3.1.2}{Non functional requirements}{section.3.1}% 12
+\BOOKMARK [1][]{section.3.2}{Dependencies}{chapter.3}% 13
+\BOOKMARK [0][]{chapter.4}{DEVELOPMENT AND IMPLEMENTATION}{}% 14
+\BOOKMARK [1][]{section.4.1}{Angular.js}{chapter.4}% 15
+\BOOKMARK [2][]{subsection.4.1.1}{Features of Angular}{section.4.1}% 16
+\BOOKMARK [1][]{section.4.2}{Front End Languages and Framework}{chapter.4}% 17
+\BOOKMARK [2][]{subsection.4.2.1}{HTML}{section.4.2}% 18
+\BOOKMARK [2][]{subsection.4.2.2}{CSS}{section.4.2}% 19
+\BOOKMARK [2][]{subsection.4.2.3}{Javascript}{section.4.2}% 20
+\BOOKMARK [2][]{subsection.4.2.4}{BootStrap}{section.4.2}% 21
+\BOOKMARK [1][]{section.4.3}{Shell Scripting}{chapter.4}% 22
+\BOOKMARK [1][]{section.4.4}{Introduction to LaTeX}{chapter.4}% 23
+\BOOKMARK [2][]{subsection.4.4.1}{Typesetting}{section.4.4}% 24
+\BOOKMARK [1][]{section.4.5}{Introduction to Node.js}{chapter.4}% 25
+\BOOKMARK [2][]{subsection.4.5.1}{Features of Node.js}{section.4.5}% 26
+\BOOKMARK [2][]{subsection.4.5.2}{Installation of Node.js}{section.4.5}% 27
+\BOOKMARK [2][]{subsection.4.5.3}{Creating Node.js project}{section.4.5}% 28
+\BOOKMARK [2][]{subsection.4.5.4}{Starting Server in node.js}{section.4.5}% 29
+\BOOKMARK [2][]{subsection.4.5.5}{Database setup}{section.4.5}% 30
+\BOOKMARK [1][]{section.4.6}{Introduction to MongoDB}{chapter.4}% 31
+\BOOKMARK [2][]{subsection.4.6.1}{Advantages of MongnoDB}{section.4.6}% 32
+\BOOKMARK [2][]{subsection.4.6.2}{Why to use MongnoDB}{section.4.6}% 33
+\BOOKMARK [2][]{subsection.4.6.3}{Where to use MongnoDB}{section.4.6}% 34
+\BOOKMARK [2][]{subsection.4.6.4}{Installation of MongoDB}{section.4.6}% 35
+\BOOKMARK [1][]{section.4.7}{Introduction to Github}{chapter.4}% 36
+\BOOKMARK [2][]{subsection.4.7.1}{What is Git?}{section.4.7}% 37
+\BOOKMARK [2][]{subsection.4.7.2}{Installation of Git}{section.4.7}% 38
+\BOOKMARK [2][]{subsection.4.7.3}{Various Git Commands}{section.4.7}% 39
+\BOOKMARK [3][]{subsubsection.4.7.3.1}{Create Repositories}{subsection.4.7.3}% 40
+\BOOKMARK [3][]{subsubsection.4.7.3.2}{Make Changes}{subsection.4.7.3}% 41
+\BOOKMARK [3][]{subsubsection.4.7.3.3}{Group Changes}{subsection.4.7.3}% 42
+\BOOKMARK [3][]{subsubsection.4.7.3.4}{Save Fragments}{subsection.4.7.3}% 43
+\BOOKMARK [3][]{subsubsection.4.7.3.5}{Synchronize Changes}{subsection.4.7.3}% 44
+\BOOKMARK [1][]{section.4.8}{Implementation}{chapter.4}% 45
+\BOOKMARK [0][]{chapter.5}{CONCLUSION AND FUTURE SCOPE}{}% 46
+\BOOKMARK [1][]{section.5.1}{Conclusion}{chapter.5}% 47
+\BOOKMARK [1][]{section.5.2}{Future Scope}{chapter.5}% 48

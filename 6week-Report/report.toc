@@ -1,0 +1,49 @@
+\contentsline {chapter}{\numberline {1}INTRODUCTION OF ORGANIZATION}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Testing and Consutancy Cell}{2}{section.1.1}
+\contentsline {chapter}{\numberline {2}Introduction To Project}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Overview}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}The Existing System}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}User Requirement Analysis}{5}{section.2.3}
+\contentsline {section}{\numberline {2.4}Feasibility Analysis}{5}{section.2.4}
+\contentsline {section}{\numberline {2.5}Objective of Project}{6}{section.2.5}
+\contentsline {chapter}{\numberline {3}PROJECT DESIGN}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}Software Requirement Analysis}{7}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Functional Requirements}{7}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Non functional requirements}{8}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Dependencies}{9}{section.3.2}
+\contentsline {chapter}{\numberline {4}DEVELOPMENT AND IMPLEMENTATION}{10}{chapter.4}
+\contentsline {section}{\numberline {4.1}Angular.js}{10}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Features of Angular}{10}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}Front End Languages and Framework}{11}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}HTML}{11}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}CSS}{12}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Javascript}{13}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}BootStrap}{13}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Shell Scripting}{14}{section.4.3}
+\contentsline {section}{\numberline {4.4}Introduction to \LaTeX }{14}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Typesetting}{15}{subsection.4.4.1}
+\contentsline {section}{\numberline {4.5}Introduction to Node.js}{16}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Features of Node.js}{16}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Installation of Node.js}{16}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}Creating Node.js project}{17}{subsection.4.5.3}
+\contentsline {subsection}{\numberline {4.5.4}Starting Server in node.js}{17}{subsection.4.5.4}
+\contentsline {subsection}{\numberline {4.5.5}Database setup}{17}{subsection.4.5.5}
+\contentsline {section}{\numberline {4.6}Introduction to MongoDB}{18}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Advantages of MongnoDB}{19}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Why to use MongnoDB}{19}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Where to use MongnoDB}{19}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.4}Installation of MongoDB}{20}{subsection.4.6.4}
+\contentsline {section}{\numberline {4.7}Introduction to Github}{20}{section.4.7}
+\contentsline {subsection}{\numberline {4.7.1}What is Git?}{21}{subsection.4.7.1}
+\contentsline {subsection}{\numberline {4.7.2}Installation of Git}{22}{subsection.4.7.2}
+\contentsline {subsection}{\numberline {4.7.3}Various Git Commands}{22}{subsection.4.7.3}
+\contentsline {subsubsection}{\numberline {4.7.3.1}Create Repositories}{22}{subsubsection.4.7.3.1}
+\contentsline {subsubsection}{\numberline {4.7.3.2}Make Changes}{22}{subsubsection.4.7.3.2}
+\contentsline {subsubsection}{\numberline {4.7.3.3}Group Changes}{23}{subsubsection.4.7.3.3}
+\contentsline {subsubsection}{\numberline {4.7.3.4}Save Fragments}{23}{subsubsection.4.7.3.4}
+\contentsline {subsubsection}{\numberline {4.7.3.5}Synchronize Changes}{24}{subsubsection.4.7.3.5}
+\contentsline {section}{\numberline {4.8}Implementation}{24}{section.4.8}
+\contentsline {chapter}{\numberline {5}CONCLUSION AND FUTURE SCOPE}{30}{chapter.5}
+\contentsline {section}{\numberline {5.1}Conclusion}{30}{section.5.1}
+\contentsline {section}{\numberline {5.2}Future Scope}{31}{section.5.2}
+\contentsfinish 
